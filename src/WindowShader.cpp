@@ -61,7 +61,7 @@ static const std::map<std::string, std::tuple<std::string, Uniforms, IntroducesT
         { "similarity", { 0.1 } },
         { "amount", { 1.4 } },
         { "targetOpacity", { 0.83 } },
-    }, IntroducesTransparency::No } },
+    }, IntroducesTransparency::Yes } },
 };
 
 
